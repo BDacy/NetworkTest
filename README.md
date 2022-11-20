@@ -1,2 +1,3 @@
 # NetworkTest
 使用networkx框架对复杂网络使用pagerank和voterank算法进行排序
+代码文件修改路径和简单的修改代码就可以执行不同数据文件的分析输出
